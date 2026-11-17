@@ -1,0 +1,6 @@
+{
+  "name": "SISDAMAS AGROSMART",
+  "description": "Sistem Pengelolaan Pangan Komunitas — Pemantauan kebun sayur, peternakan ayam petelur, stok pangan, distribusi gratis, barter sampah organik, dan data masyarakat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
